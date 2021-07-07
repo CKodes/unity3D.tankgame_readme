@@ -43,4 +43,4 @@ https://user-images.githubusercontent.com/78678795/124647126-21649f00-dec8-11eb-
 
 ## Author
 
-- [LinkedIn Profile](www.linkedin.com/in/kimrcasper)
+- [LinkedIn Profile](http://www.linkedin.com/in/kimrcasper)
